@@ -1,0 +1,31 @@
+1. OBJETOS DEL JUEGO
+
+- Cuadro
+- Botón medio que reinicia el juego
+- Marcador
+- Temporizador
+- Casillas
+
+2. Atributos, valores
+
+- Cuadro -> Tamaño del cuadro y del borde, cantidad de casillas
+- Botón medio de inicio -> Fin o no fin: Booleano
+- Marcador -> Valor interno de puntuación
+- Temporizador -> Valor interno del tiempo
+- Casillas -> Booleano mostrado, Tipo vacío, numérico o bomba. Marcado como valor bomba o ?
+                    
+3. Acciones
+
+- Cuadro -> Reiniciar todo el juego
+- Botón medio -> Envía la acción de reiniciar al cuadro
+- Marcador -> Aumenta según clicka sin fallar.
+- Temporizador -> Aumenta indistintamente según pasa el tiempo
+- Casillas -> Realizan acción de descubrir al clickar, fin de juego o seguir
+
+
+4. Clases, atributos y mensajes
+
+- Cuadro -> Atributos tamaño y número de casillas
+- Botón
+- Marcador
+- Casillas -> método marcar botón derecho e clickar izquierdo

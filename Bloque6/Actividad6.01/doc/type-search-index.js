@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"prog.unidad06.arraysuni.ejercicio06","l":"EstadisticasNotas"},{"p":"prog.unidad06.arraysuni.ejercicio06","l":"EstadisticasNotasException"}];updateSearchResults();

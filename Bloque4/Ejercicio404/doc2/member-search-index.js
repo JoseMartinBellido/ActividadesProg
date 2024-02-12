@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"prog.unidad04.actividad404.ejercicio04","c":"CalculadorMedia","l":"add(double)"},{"p":"prog.unidad04.actividad404.ejercicio04","c":"CalculadorMedia","l":"CalculadorMedia(double)","u":"%3Cinit%3E(double)"},{"p":"prog.unidad04.actividad404.ejercicio04","c":"CalculadorMedia","l":"getMedia()"}];updateSearchResults();

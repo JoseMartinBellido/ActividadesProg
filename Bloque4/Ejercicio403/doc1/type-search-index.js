@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"prog.unidad04.actividad403.ejercicio01","l":"Pizza"},{"p":"prog.unidad04.actividad403.ejercicio01","l":"PizzaAlreadyServedException"}];updateSearchResults();

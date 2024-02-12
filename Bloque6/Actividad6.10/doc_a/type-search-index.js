@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"prog.unidad06.xml.ejercicio01","l":"DiccionarioSpanishEnglishException"},{"p":"prog.unidad06.xml.ejercicio01","l":"DiccionarioSpanishEnglishFromFile"}];updateSearchResults();

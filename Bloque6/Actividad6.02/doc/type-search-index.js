@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"prog.unidad06.arraysmulti.ejercicio02","l":"TablaEnteraConTotales"}];updateSearchResults();

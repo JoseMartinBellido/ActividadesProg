@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"prog.unidad04.actividad405.comun","l":"Alumno"},{"p":"prog.unidad04.actividad405.comun","l":"Becario"},{"p":"prog.unidad04.actividad405.comun","l":"Persona"},{"p":"prog.unidad04.actividad405.comun","l":"Profesor"}];updateSearchResults();
