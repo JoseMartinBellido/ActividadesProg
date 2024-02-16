@@ -29,8 +29,7 @@ public class ImpresorTablaReal {
     for (double[] fila : tabla) {
       for (double numero : fila) {
         // El extra de 3 espacios es para separar los números unos de otros 2 espacios y considerar el punto
-        String textoAImprimir = "% " + (longitud + numDecimales + 2) + "." 
-      + numDecimales + "f";
+        String textoAImprimir = "% " + (longitud + numDecimales + 2) + "." + numDecimales + "f";
         System.out.printf(textoAImprimir, numero);
       }
       System.out.println();

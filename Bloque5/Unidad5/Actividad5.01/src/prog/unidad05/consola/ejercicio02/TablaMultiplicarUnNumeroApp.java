@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 import prog.unidad05.consola.ejercicio01.TablaMultiplicar;
 
-public class TablaMultiplicarIUnNumeroApp {
+public class TablaMultiplicarUnNumeroApp {
 
   public static void main(String[] args) {
 
